@@ -3,6 +3,10 @@ Recopilación de normativas de **software libre en entidades públicas de Argent
 
 Hemos encontrado este [relevamiento de ordenanzas, decretos y leyes relacionados con el uso y la promoción del Software Libre a nivel Municipal y Provincial](http://www.gobiernolocal.gob.ar/?q=taxonomy/term/54) recopilado por la Dirección Nacional de Capacitación Municipal de la Subsecretaría de Gestion Municipal de la Presidencia de la Nación. En su sitio web se pueden encontrar [varios proyectos bajo la etiqueta de software libre](http://www.gobiernolocal.gob.ar/?q=taxonomy/term/771).  
 
+## Nacional
+
+* [FLISoL declaración de interés cultural, Ministerio de Cultura de la Nación](http://flisol.org.ar/pdf/Declaraci%C3%B3n_Inter%C3%A9s_FLISOL_Ministerio_Cultura_Naci%C3%B3n.pdf)
+
 ## Por provincia
 
 ### Santa Fe
