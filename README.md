@@ -38,3 +38,5 @@ Hemos encontrado este [relevamiento de ordenanzas, decretos y leyes relacionados
 ### Río Negro
 * [Ley de incorporación y gestión de Software Libre en la administración de la Provincia de Río Negro](http://www.gobiernolocal.gob.ar/?q=node/2763)
 
+### Pergamino, Buenos Aires
+* [Proyecto de Ordenanza - Software Libre en la Municipalidad de Pergamino] (SL-mun-Pergamino.pdf)
